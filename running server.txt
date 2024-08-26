@@ -1,0 +1,9 @@
+Run pnpm i to install the project's packages.
+
+Followed by pnpm dev to start the development server.
+
+pnpm dev starts your Next.js development server on port 3000. Let's check to see if it's working.
+
+Open http://localhost:3000 on your browser. Your home page should look like this, which is intentionally unstyled:
+
+TO STOP THE SERVER USE CTRL+C
